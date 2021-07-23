@@ -2,12 +2,6 @@
 
 L'application permet de retourner la meilleur solution d'investissement. L'appllication contient 2 fichiers. Un ficher proposant une solution de bruteforce. Un 2e fichier "optimed.py" proposant une solution en programmation dynamique. Cette dernière solution est plus efficiente.
 
-Pour utiliser l'application, il suffit de:
-* Télécharger le repository.
-* CD dans le repository.
-* Créer l'environnement virtuel en tapant la commande **"python -m venv env"** et **"source env/bin/activate"**.
-* Puis, effectuer la commande **"pip install -r requirements.txt"**.
-* Enfin, lancer commande **"python P2_01_scraping.py"**.
 
 ## Installation
 
