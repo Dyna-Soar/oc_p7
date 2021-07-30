@@ -8,10 +8,6 @@ start_time = time.time()
 url1 = "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Python+FR/845+Maitrise+Algorithmes+Python/dataset1_Python+P7.csv"
 url2 = "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Python+FR/845+Maitrise+Algorithmes+Python/dataset2_Python+P7.csv"
 
-data1 = requests.get(url1).text
-data2 = requests.get(url2).content
-databis = requests.get(url1)
-
 
 
 def extract_csv_url(url):
